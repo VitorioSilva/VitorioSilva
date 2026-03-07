@@ -112,6 +112,8 @@ https://github.com/VitorioSilva/midnight-black-theme
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VitorioSilva&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=VitorioSilva&theme=tokyonight)
+
 ---
 
 ## 📫 Contato
