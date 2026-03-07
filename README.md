@@ -43,6 +43,16 @@ Tenho grande interesse em compreender como sistemas funcionam internamente e em 
 
 ---
 
+### 🚗 Lustro
+
+Back-end de sistema de agendamento para lava jato com autenticação JWT e API REST.
+
+Python • Flask • SQLAlchemy • MySQL • Pytest
+
+https://github.com/VitorioSilva/Lustro
+
+---
+
 ## 📌 Projetos em Destaque
 
 🔎 **Port Scanner Stealth**  
