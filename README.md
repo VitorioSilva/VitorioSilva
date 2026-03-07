@@ -106,11 +106,11 @@ https://github.com/VitorioSilva/midnight-black-theme
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-| | |
-|:-:|:-:|
-| ![](https://github-readme-stats.vercel.app/api?username=VitorioSilva&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorioSilva&layout=compact&theme=tokyonight) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorioSilva&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorioSilva&layout=compact&theme=tokyonight)
 
 ---
 
