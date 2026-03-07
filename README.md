@@ -1,86 +1,117 @@
-<h1 align="center">Olá 👋, eu sou Vitório Santos</h1>
+# <i>Olá, eu sou Vitório Santos</i> 👨‍💻
 
-<p align="center">
-💻 Back-End Developer em formação <br>
-🐍 Python • APIs • Automação • Segurança
+<h4 align="center">
+
+[![Github Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorioSilva)
+[![Email Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorio.tech@proton.me)
+
+</h4>
+
+---
+
+<p align="justify">
+
+Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> apaixonado por tecnologia, desenvolvimento de software e segurança da informação.
+
+Meu foco principal é desenvolvimento <b>Back-End</b>, automação com Python e construção de ferramentas que exploram conceitos de redes, segurança e algoritmos.
+
+Tenho grande interesse em compreender como sistemas funcionam internamente e em desenvolver soluções que automatizem tarefas e resolvam problemas reais.
+
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🛠️ Competências Técnicas
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+<ul>
 
-Sou apaixonado por tecnologia, desenvolvimento de software e segurança da informação.
+<li><b>Linguagens:</b> Python, Java, JavaScript, PHP</li>
 
-Tenho interesse principalmente em:
+<li><b>Desenvolvimento Web:</b> HTML, CSS</li>
 
-- Desenvolvimento **Back-End**
-- **Automação com Python**
-- **APIs REST**
-- **Segurança da Informação**
-- **Ferramentas de rede e cybersecurity**
+<li><b>Banco de Dados:</b> MySQL, PostgreSQL</li>
 
----
+<li><b>Sistemas Operacionais:</b> Linux, Windows, macOS</li>
 
-## 🛠️ Tecnologias e Ferramentas
+<li><b>Ferramentas:</b> Git, GitHub</li>
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<li><b>Scripting:</b> Shell Script</li>
 
-### Web
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<li><b>Metodologias:</b> Scrum e Kanban</li>
 
-### Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</ul>
 
 ---
 
-## 📂 Projetos em destaque
+## 📌 Projetos em Destaque
 
 🔎 **Port Scanner Stealth**  
-Ferramenta de varredura de portas com técnicas de scan furtivo.
+Ferramenta de varredura de portas utilizando Python.
 
 https://github.com/VitorioSilva/portscan-stealth
 
 ---
 
-🔗 **REST API**  
-API REST para manipulação de dados e integração entre aplicações.
+🔗 **REST API**
+
+API REST desenvolvida para comunicação entre aplicações e manipulação de dados.
 
 https://github.com/VitorioSilva/RestAPI
 
 ---
 
-🔐 **Criptografia Assimétrica**  
+🔐 **Criptografia Assimétrica**
+
 Implementação de algoritmo de criptografia com chave pública e privada.
 
 https://github.com/VitorioSilva/criptografia-assimetrica
 
 ---
 
-🎨 **Midnight Black Theme (VSCode)**  
-Tema escuro inspirado no Dracula para VS Code.
+🎨 **Midnight Black Theme**
+
+Tema escuro para o editor de código inspirado no Dracula.
 
 https://github.com/VitorioSilva/midnight-black-theme
 
 ---
 
+## 🔍 Áreas de Interesse
+
+<ul>
+
+<li>Desenvolvimento Back-End</li>
+
+<li>Automação com Python</li>
+
+<li>APIs REST</li>
+
+<li>Segurança da Informação</li>
+
+<li>Redes de Computadores</li>
+
+<li>Estruturas de Dados</li>
+
+</ul>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorioSilva&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorioSilva&layout=compact&theme=tokyonight)
+| | |
+|:-:|:-:|
+| ![](https://github-readme-stats.vercel.app/api?username=VitorioSilva&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorioSilva&layout=compact&theme=tokyonight) |
 
 ---
 
 ## 📫 Contato
 
-📧 Email: vitorio.tech@proton.me
+📧 vitorio.tech@proton.me
+
+---
+
+<p align="center">
+
+<i>"A melhor maneira de aprender tecnologia é construindo coisas."</i>
+
+</p>
