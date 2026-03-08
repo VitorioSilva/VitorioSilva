@@ -76,17 +76,13 @@ Tema escuro para o editor de código inspirado no Dracula.
 
 ---
 
-## 📊 GitHub Stats & Perfil
+## 📊 GitHub Stats & Streak
 
-<p align="center">
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorioSilva&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorioSilva&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorioSilva&theme=nord_dark) |
 | :-: | :-: | :-: |
-</p>
 
-<p align="center">
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=VitorioSilva&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: |
-</p>
 
 ---
 
