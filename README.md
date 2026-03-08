@@ -55,11 +55,12 @@ Tenho grande interesse em compreender como sistemas funcionam internamente e em 
 
 ### 🚗 Lustro
 Back-end de sistema de agendamento para lava jato com autenticação JWT e API REST.  
-Python • Flask • SQLAlchemy • MySQL • Pytest  
+**Tecnologias:** Python • Flask • SQLAlchemy • MySQL • Pytest  
 [Repositório](https://github.com/VitorioSilva/Lustro)
 
 ### 🔎 Port Scanner Stealth
-Ferramenta de varredura de portas utilizando Python.  
+Ferramenta de varredura de portas utilizando Python, com foco em stealth e performance.  
+**Tecnologias:** Python • Socket • Threading  
 [Repositório](https://github.com/VitorioSilva/portscan-stealth)
 
 ### 🔗 REST API de Recrutamento
@@ -68,11 +69,12 @@ API em **PHP** para análise de candidaturas
 [Repositório](https://github.com/VitorioSilva/RestAPI)
 
 ### 🔐 Criptografia Assimétrica
-Implementação de algoritmo de criptografia com chave pública e privada.  
+Implementação de algoritmo de criptografia com chave pública e privada, para aprendizado de segurança da informação.  
+**Tecnologias:** Python • RSA • PyCryptodome 
 [Repositório](https://github.com/VitorioSilva/criptografia-assimetrica)
 
 ### 🎨 Midnight Black Theme
-Tema escuro para o editor de código inspirado no Dracula.  
+Tema para o **VS Code**, inspirado no Dracula.  
 [Repositório](https://github.com/VitorioSilva/midnight-black-theme)
 
 ---
