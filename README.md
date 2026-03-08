@@ -63,9 +63,8 @@ Ferramenta de varredura de portas utilizando Python.
 [Repositório](https://github.com/VitorioSilva/portscan-stealth)
 
 ### 🔗 REST API de Recrutamento
-API em **PHP** para análise de candidaturas
-
-**Tecnologias:** PHP 8+ • MySQL 8+ • PDO
+API em **PHP** para análise de candidaturas  
+**Tecnologias:** PHP 8+ • MySQL 8+ • PDO  
 [Repositório](https://github.com/VitorioSilva/RestAPI)
 
 ### 🔐 Criptografia Assimétrica
