@@ -108,11 +108,11 @@ https://github.com/VitorioSilva/midnight-black-theme
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VitorioSilva&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorioSilva&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=VitorioSilva&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorioSilva&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorioSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="30%">
+  <img src="https://streak-stats.demolab.com?user=VitorioSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="30%">
+</p>
 
 ---
 
