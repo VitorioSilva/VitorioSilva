@@ -4,8 +4,8 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorioSilva)
 [![Email Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorio.tech@proton.me)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VitorioSilva)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/VitorioSilva/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 </h4>
 
@@ -63,7 +63,7 @@ Ferramenta de varredura de portas utilizando Python, com foco em stealth e perfo
 **Tecnologias:** Python • Socket • Threading  
 [Repositório](https://github.com/VitorioSilva/portscan-stealth)
 
-### 🔗 REST API de Recrutamento
+### 🔗 REST API
 API em **PHP** para análise de candidaturas  
 **Tecnologias:** PHP 8+ • MySQL 8+ • PDO  
 [Repositório](https://github.com/VitorioSilva/RestAPI)
@@ -93,8 +93,8 @@ Tema para o **VS Code**, inspirado no Dracula.
 
 <p align="center">
 📧 vitorio.tech@proton.me • 
-<a href="https://www.linkedin.com/in/VitorioSilva">LinkedIn</a> • 
-<a href="https://www.instagram.com/VitorioSilva/">Instagram</a> • 
+<a href="">LinkedIn</a> • 
+<a href="">Instagram</a> • 
 <a href="https://github.com/VitorioSilva">GitHub</a>
 </p>
 
