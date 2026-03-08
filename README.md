@@ -70,7 +70,7 @@ API em **PHP** para análise de candidaturas
 
 ### 🔐 Criptografia Assimétrica
 Implementação de algoritmo de criptografia com chave pública e privada, para aprendizado de segurança da informação.  
-**Tecnologias:** Python • RSA • PyCryptodome 
+**Tecnologias:** Python • RSA • PyCryptodome  
 [Repositório](https://github.com/VitorioSilva/criptografia-assimetrica)
 
 ### 🎨 Midnight Black Theme
