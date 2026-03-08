@@ -64,7 +64,8 @@ Ferramenta de varredura de portas utilizando Python.
 
 ### 🔗 REST API de Recrutamento
 API em **PHP** para análise de candidaturas
-**Tecnologias:** PHP 8+ • MySQL 8+ • PDO  
+
+**Tecnologias:** PHP 8+ • MySQL 8+ • PDO
 [Repositório](https://github.com/VitorioSilva/RestAPI)
 
 ### 🔐 Criptografia Assimétrica
