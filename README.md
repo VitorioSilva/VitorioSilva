@@ -62,8 +62,8 @@ Python • Flask • SQLAlchemy • MySQL • Pytest
 Ferramenta de varredura de portas utilizando Python.  
 [Repositório](https://github.com/VitorioSilva/portscan-stealth)
 
-### 🔗 REST API
-API REST desenvolvida para comunicação entre aplicações e manipulação de dados.  
+### 🔗 REST API de Recrutamento
+**Tecnologias:** PHP 8+ • MySQL 8+ • PDO  
 [Repositório](https://github.com/VitorioSilva/RestAPI)
 
 ### 🔐 Criptografia Assimétrica
