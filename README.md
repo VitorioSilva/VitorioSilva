@@ -71,7 +71,7 @@ Implementação de algoritmo de criptografia com chave pública e privada, para 
 **Tecnologias:** Python • RSA • PyCryptodome  
 [Repositório](https://github.com/VitorioSilva/criptografia-assimetrica)
 
-### 🎨 AI Chat Desktop
+### 🤖 AI Chat Desktop
 Uma aplicação desktop de chat com Inteligência Artificial desenvolvida em Python, com interface gráfica moderna
 e integração com modelos de linguagem via API.  
 [Repositório](https://github.com/VitorioSilva/ai-chat-desktop)
