@@ -71,14 +71,14 @@ Implementação de algoritmo de criptografia com chave pública e privada, para 
 **Tecnologias:** Python • RSA • PyCryptodome  
 [Repositório](https://github.com/VitorioSilva/criptografia-assimetrica)
 
+### 🎨 AI Chat Desktop
+Uma aplicação desktop de chat com Inteligência Artificial desenvolvida em Python, com interface gráfica moderna
+e integração com modelos de linguagem via API.  
+[Repositório](https://github.com/VitorioSilva/ai-chat-desktop)
+
 ### 🎨 Midnight Black Theme
 Tema para o **VS Code**, inspirado no Dracula.  
 [Repositório](https://github.com/VitorioSilva/midnight-black-theme)
-
-### 🎨 AI Chat Desktop
-Uma aplicação desktop de chat com Inteligência Artificial desenvolvida em Python, com interface gráfica moderna
-e integração com modelos de linguagem via API.
-[Repositório](https://github.com/VitorioSilva/ai-chat-desktop)
 
 ---
 
