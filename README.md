@@ -4,8 +4,6 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorioSilva)
 [![Email Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorio.tech@proton.me)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 </h4>
 
@@ -76,6 +74,11 @@ Implementação de algoritmo de criptografia com chave pública e privada, para 
 ### 🎨 Midnight Black Theme
 Tema para o **VS Code**, inspirado no Dracula.  
 [Repositório](https://github.com/VitorioSilva/midnight-black-theme)
+
+### 🎨 AI Chat Desktop
+Uma aplicação desktop de chat com Inteligência Artificial desenvolvida em Python, com interface gráfica moderna
+e integração com modelos de linguagem via API.
+[Repositório](https://github.com/VitorioSilva/ai-chat-desktop)
 
 ---
 
